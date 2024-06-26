@@ -3,6 +3,8 @@
 
 This is a solution to the Dockerized Solutions challenge on [Hackattic](https://hackattic.com/challenges/dockerized_solutions).
 
+I first created an SSL signed certificate using a domain name. Then, I mapped out my VM to a domain name using my IP address (of the VM) as an A record and installed Docker.
+
 ## Solution Steps
 
 ### Step 1: Create and Configure SSL Signed Certificate
